@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Fetch Rewards</string>
+    <string name="filter_by_name">Filter by name</string>
+    <string name="list_id">List ID</string>
+    <string name="name">Name</string>
+    <string name="id">Id</string>
+    <string name="apply_filter">Apply Filter</string>
+</resources>

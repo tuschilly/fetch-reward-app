@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- res/drawable/table_row_border.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <solid android:color="@color/white" /> <!-- Background color of the row -->
+    <stroke
+        android:width="2dp"
+        android:color="#111111" />
+    <padding
+        android:left="40dp"
+        android:top="4dp"
+        android:right="40dp"
+        android:bottom="4dp" />
+</shape>
